@@ -14,6 +14,10 @@ form {
   font-weight: bold;
 }
 
+.input-check {
+  margin-right: 5px;
+}
+
 .form-button {
   color: #fff;
   /* background-color: #ffc107; */
